@@ -3,7 +3,7 @@
         {
             "remarks": "BiznetGeoNusantara",
             "short_remarks": "BGN",
-            "type": "vless",
+            "conf_type": "vless",
             "country": "ID",
             "flag": "🇮🇩",
             "address": "cpanel.iptunnels.com",
@@ -21,7 +21,7 @@
         {
             "remarks": "JupiterJalaArta",
             "short_remarks": "JJA",
-            "type": "vless",
+            "conf_type": "vless",
             "country": "ID",
             "flag": "🇮🇩",
             "address": "jala.iptunnels.com",
