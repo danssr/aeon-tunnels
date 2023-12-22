@@ -2,7 +2,7 @@
     "cfvless": [
         {
             "remarks": "BiznetGeoNusantara",
-            "short_remarks": "BGN",
+            "short_remarks": "BGN1",
             "conf_type": "vless",
             "country": "ID",
             "flag": "🇮🇩",
@@ -16,11 +16,11 @@
             "host": "cpanel.iptunnels.com",
             "sni": "cpanel.iptunnels.com",
             "path": "/buy-vless-ws-pm-telegram-at-synricha",
-            "domain_code": "CPNL1"
+            "domain_code": "ZET1"
         },
         {
             "remarks": "JupiterJalaArta",
-            "short_remarks": "JJA",
+            "short_remarks": "JALA1",
             "conf_type": "vless",
             "country": "ID",
             "flag": "🇮🇩",
@@ -34,7 +34,7 @@
             "host": "jala.iptunnels.com",
             "sni": "jala.iptunnels.com",
             "path": "/buy-vless-ws-pm-telegram-at-synricha",
-            "domain_code": "JALA1"
+            "domain_code": "ZET2"
         }
    ]
 }
