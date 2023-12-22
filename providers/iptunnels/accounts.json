@@ -1,0 +1,40 @@
+{
+    "iptunnels": [
+        {
+            "remarks": "BiznetGeoNusantara",
+            "short_remarks": "BGN",
+            "type": "vless",
+            "country": "ID",
+            "flag": "🇮🇩",
+            "address": "cpanel.iptunnels.com",
+            "port": 443,
+            "uuid": "59cf367f-cd79-497f-bbf1-46fbf0e78cfc",
+            "encryption": "none",
+            "security": "tls",
+            "fp": "randomized",
+            "type": "ws",
+            "host": "cpanel.iptunnels.com",
+            "sni": "cpanel.iptunnels.com",
+            "path": "/buy-vless-ws-pm-telegram-at-synricha",
+            "domain_code": "CPNL1"
+        },
+        {
+            "remarks": "JupiterJalaArta",
+            "short_remarks": "JJA",
+            "type": "vless",
+            "country": "ID",
+            "flag": "🇮🇩",
+            "address": "jala.iptunnels.com",
+            "port": 443,
+            "uuid": "08fa5a0d-ee47-4e7b-b399-c4bd1c3d95df",
+            "encryption": "none",
+            "security": "tls",
+            "fp": "randomized",
+            "type": "ws",
+            "host": "jala.iptunnels.com",
+            "sni": "jala.iptunnels.com",
+            "path": "/buy-vless-ws-pm-telegram-at-synricha",
+            "domain_code": "JALA1"
+        }
+   ]
+}
